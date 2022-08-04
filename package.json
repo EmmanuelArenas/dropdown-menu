@@ -18,6 +18,13 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "keywords": [
+    "menu",
+    "menu desplegable",
+    "Dropdown Menu"
+  ],
+  "author": "emmanuel.live19@gmail.com",
+  "license": "ISC",
   "eslintConfig": {
     "extends": [
       "react-app",
